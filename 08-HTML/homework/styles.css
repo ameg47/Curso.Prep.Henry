@@ -1,0 +1,22 @@
+h1{
+    color:navy;
+    margin:auto
+}
+img{
+    width: 400px;
+    margin: auto;
+}
+#thirdDiv{
+    height: 600px;
+    width: 500px;
+    background-color: peachpuff;
+    padding: 50px;
+    border: 2px indianred;
+}
+#spanId{
+    font-size: 18px;
+    margin: auto;
+}
+.divClass{
+    margin:auto;
+}
